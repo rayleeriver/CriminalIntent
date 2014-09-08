@@ -41,6 +41,10 @@ public class Crime {
         return mSolved;
     }
 
+    public void alsoDoNothing() {
+
+    }
+
     public void setSolved(boolean mSolved) {
         this.mSolved = mSolved;
     }
