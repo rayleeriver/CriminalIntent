@@ -45,6 +45,10 @@ public class Crime {
         this.mSolved = mSolved;
     }
 
+    public void doNothing() {
+
+    }
+
     @Override
     public String toString() {
         return mTitle;
